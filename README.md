@@ -1,4 +1,4 @@
-# det-crop-face-from-videos
+# Detect and Crop Face from Videos
 
 Crop temporally diverse face images from videos using a PyTorch-based MTCNN face detector.
 
